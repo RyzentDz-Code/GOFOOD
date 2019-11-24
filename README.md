@@ -1,6 +1,9 @@
 TAHAP PERTAMA GAISSS ;)
 
 #pkg install git
+
 #pkg install php
-#git clone
+
+#git clone https://github.com/RyzentDz-Code/GOFOOD
+
 #php tes.php
